@@ -21,3 +21,7 @@ Lose If the sum is 2 ,3 ,12 in the first roll
 Determines a point and continues until the sum = point
 If sum = 7 Game ends.
 
+
+# Players
+![image](https://github.com/theritalin/ao.arweave.dev/blob/main/Quest-4/Ekran%20Resmi%202024-05-25%2011.56.31.png)
+
